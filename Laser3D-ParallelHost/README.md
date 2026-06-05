@@ -40,7 +40,7 @@ Menggunakan pola arsitektur *Pipeline Jaringan Terdistribusi* asinkron. Komunika
 
 1. **Clone dan Masuk ke Repositori:**
    ```bash
-   git clone [https://github.com/USERNAME/Laser3D-ParallelHost.git](https://github.com/USERNAME/Laser3D-ParallelHost.git)
+   git clone [https://github.com/richiensc/Laser3D-ParallelHost.git](https://github.com/richiensc/Laser3D-ParallelHost.git)
    cd Laser3D-ParallelHost/Host-Simulation
 Instalasi Dependensi Jaringan:
 
