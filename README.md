@@ -55,7 +55,8 @@ Eksekusi Emulator Antarmuka Grafis (GUI):
 Bash
 python gui.py
 
-👤 Identitas Pengembang
+## 👤 Identitas Pengembang
+
 Nama: Richie Nandana Sakhi Canadian
 
 NRP: 15-2024-037
