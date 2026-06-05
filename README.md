@@ -46,10 +46,12 @@ Instalasi Dependensi Jaringan:
 
 Bash
 pip install -r requirements.txt
+
 Eksekusi Pengujian Performa Terminal (Benchmark):
 
 Bash
 python main.py
+
 Eksekusi Emulator Antarmuka Grafis (GUI):
 
 Bash
